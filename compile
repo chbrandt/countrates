@@ -1,0 +1,1 @@
+gfortran -o countrates countrates.f mylib.f -Wall -fno-second-underscore -fcommon -ffixed-line-length-160
